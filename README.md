@@ -20,7 +20,7 @@ The **DecentralizedStatus** contract enables users to:
 1. Clone the repository:
    ```bash
    https://github.com/Hari9602/DecentralizedStatus.git
-
+   ```
 2. Deploy the contract using your preferred Ethereum development environment (e.g., Remix, Truffle).
 
 3. Interact with the contract to set and get statuses!
